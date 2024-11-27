@@ -1,0 +1,1 @@
+FROM juicedata/juicefs-fuse:ce-v1.1.0-rc1
