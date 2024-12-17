@@ -1,1 +1,1 @@
-FROM m.daocloud.io/docker.io/alpine:latest:latest
+FROM docker.io/alpine:latest
