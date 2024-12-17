@@ -1,1 +1,1 @@
-FROM docker.io/alpine:latest
+FROM m.daocloud.io/docker.io/alpine:3.18
