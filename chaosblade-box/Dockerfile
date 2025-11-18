@@ -1,0 +1,1 @@
+FROM ghcr.io/chaosblade-io/chaosblade-box:1.0.5
