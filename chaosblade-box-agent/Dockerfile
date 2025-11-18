@@ -1,0 +1,1 @@
+FROM ghcr.io/chaosblade-io/chaosblade-agent:1.0.3
